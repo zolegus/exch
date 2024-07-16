@@ -1,0 +1,9 @@
+[package]
+name = "exch"
+version = "0.1.0"
+edition = "2021"
+authors = ["Oleg Zherebkin <zolegus@gmail.com>"]
+description = "Exchanges API library"
+license = "MIT"
+
+[dependencies]
